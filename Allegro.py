@@ -46,11 +46,6 @@ def scrapp():
                         new_row.writerow(lista)
                 except AttributeError:
                     break
-                    global page_num
-                    page_num = 0
-                    page_num += 1
-                    status = tk.Label(root, text=str("Strona " + str(page_num)), relief="sunken", )
-                    status.place(x=1, y=55, width=300)
         except:
             break
 
