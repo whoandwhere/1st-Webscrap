@@ -1,4 +1,6 @@
 # patryk.urba
 Allegro 
 
-First ever python script entirely by me
+Allegro webscraping script. Enter url to scrape and number of pages you want to get.
+
+Code and exe.
